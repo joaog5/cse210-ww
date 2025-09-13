@@ -1,4 +1,4 @@
-/*I still having some difficulties with programming terms on english. I've looked for help in the following blog to do this part of the code in addition to the BYU online materials*/
+/*I still having some difficulties to understand english long texts and programming terms. I've looked for help in the following blog to do this part of the code in addition to the BYU online materials*/
 /*https://www.devmedia.com.br/linguagem-csharp-trabalhando-com-arquivos-de-texto/32326*/
 
 using System;
